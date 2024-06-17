@@ -1,0 +1,11 @@
+#Abraham{
+    height: 150px;
+    width: 160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+p{
+    border: 2px solid green;
+    padding: 7px;
+}
